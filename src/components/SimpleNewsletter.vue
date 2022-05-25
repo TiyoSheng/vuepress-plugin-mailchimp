@@ -10,7 +10,7 @@
           type="email"
           name="email"
           aria-label="Email"
-          placeholder="Email"
+          placeholder="Enter your email"
           required
           autocapitalize="off"
           autocorrect="off"
